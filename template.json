@@ -1,6 +1,6 @@
 {
   "ls": [{
-    "name": "@constq/vue2-cli",
-    "url": "github:HoldSworder/vue2-cli"
+    "name": "vue2-tpl",
+    "url": "github:qzr-cli/vue2-tpl"
   }]
 }
