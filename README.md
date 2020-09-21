@@ -5,6 +5,7 @@
 ## 安装
 
 npm i @constq/qzr-cli -g
+
 yarn @constq/qzr-cli -g
 
 ## 使用方法
