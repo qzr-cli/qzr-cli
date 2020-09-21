@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+const chalk = require('chalk')
+const tplObj = require(`${__dirname}/../template`)
+
+for (const item of tplObj.ls) {
+  console.log(chalk.red(item.name + ':'), chalk.green(item.url))
+}
