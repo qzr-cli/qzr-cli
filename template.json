@@ -2,5 +2,8 @@
   "ls": [{
     "name": "vue2-tpl",
     "url": "github:qzr-cli/vue2-tpl"
+  }, {
+    "name": "vite-vue3-tpl",
+    "url": "github:qzr-cli/vite-vue3-tpl#main"
   }]
 }
