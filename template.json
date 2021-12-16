@@ -5,5 +5,8 @@
   }, {
     "name": "vite-vue3-tpl",
     "url": "github:qzr-cli/vite-vue3-tpl#main"
+  }, {
+    "name": "nest-tpl",
+    "url": "github:qzr-cli/nest-tpl#main"
   }]
 }
