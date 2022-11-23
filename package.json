@@ -1,6 +1,6 @@
 {
   "name": "@constq/qzr-cli",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "private": false,
   "description": "脚手架工具",
   "main": "index.js",
