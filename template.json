@@ -8,5 +8,8 @@
   }, {
     "name": "nest-tpl",
     "url": "github:qzr-cli/nest-tpl#main"
+  }, {
+    "name": "express-ts-tpl",
+    "url": "github:qzr-cli/express-ts-tpl#main"
   }]
 }
